@@ -1,6 +1,6 @@
 {
   "name": "cmsis-core-atmel",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CMSIS Core Implementation for Atmel Microcontrollers",
   "keywords": [
     "cmsis"
@@ -10,6 +10,9 @@
   "targetDependencies": {
     "atmel-samcortexm0p": {
       "cmsis-core-atmel-samcortexm0p": "*"
+    },
+    "atmel-samcortexm4": {
+      "cmsis-core-atmel-samcortexm4": "*"
     }
   }
 }
