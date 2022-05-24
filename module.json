@@ -1,6 +1,6 @@
 {
   "name": "cmsis-core-atmel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CMSIS Core Implementation for Atmel Microcontrollers",
   "author": "Akhil P <Akhil.P@atmel.com>",
   "repository": {
@@ -18,7 +18,7 @@
       "cmsis-core-atmel-samcortexm0p": "*"
     },
     "atmel-samcortexm4": {
-      "cmsis-core-atmel-samcortexm4": "*"
+      "cmsis-core-atmel-samcortexm4": "he2she/cmsis-core-atmel-samcortexm4#v1.0.1"
     }
   }
 }
