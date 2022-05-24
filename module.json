@@ -4,10 +4,10 @@
   "description": "CMSIS Core Implementation for Atmel Microcontrollers",
   "author": "Akhil P <Akhil.P@atmel.com>",
   "repository": {
-    "url": "git@github.com:ARMmbed/cmsis-core-atmel.git",
+    "url": "git@github.com:he2she/cmsis-core-atmel.git",
     "type": "git"
   },
-  "homepage": "https://github.com/ARMmbed/cmsis-core-atmel",    
+  "homepage": "https://github.com/he2she/cmsis-core-atmel",    
   "keywords": [
     "cmsis"
   ],
